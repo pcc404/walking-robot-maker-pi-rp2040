@@ -15,3 +15,7 @@ YOU WILL NEED THE FOLLOWING FILES IN THE FOLLOWING QUANTITIES (for 1 robot) FROM
 + x1 3-battery AA battery holder
 + x2 simple yellow plastic gear motor
 + x1 ultrasonic sensor
+
+# other things you'll need
++ a computer capable of running Thonny (windows 7+, MAY work on newer Chromebooks with a workaround (I haven't been able to test it out yet but in theory it works)
++ a USB cable (Micro to USB-A or micro to USB-C, depending on what connectors your compute has !IT MUST BE A DATA CABLE!)
