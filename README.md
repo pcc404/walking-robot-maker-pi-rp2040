@@ -9,3 +9,9 @@ YOU WILL NEED THE FOLLOWING FILES IN THE FOLLOWING QUANTITIES (for 1 robot) FROM
 + x1 SonicHexLegPivet2.stl
 + x2 SonicHexCam3.stl
 + x1 robotic club holder thingy tangy orange juice.stl
+
+# you will need the following electronic parts:
++ x1 maker pi rp2040 (maker pi pico will NOT work!!!)
++ x1 3-battery AA battery holder
++ x2 simple yellow plastic gear motor
++ x1 ultrasonic sensor
