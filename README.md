@@ -1,2 +1,11 @@
 # walking-robot-maker-pi-rp2040
-THIS IS A GITHUB REPO FOR MY ROBOT
+ASSEMBLY TUTORIAL COMING SOON
+YOU WILL NEED THE FOLLOWING FILES IN THE FOLLOWING QUANTITIES (for 1 robot) FROM https://www.thingiverse.com/thing:3262487 AND https://www.printables.com/model/787584-adapter-thingy-for-maker-pi-rp2040-and-hex-a-bot-d:
+
+
++ x1 SonicHexFrame5.stl
++ x1 SonicHexCenterLegLinkage.stl
++ x2 SonicHexOuterLeg2.stl
++ x1 SonicHexLegPivet2.stl
++ x2 SonicHexCam3.stl
++ x1 robotic club holder thingy tangy orange juice.stl
